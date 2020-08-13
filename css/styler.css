@@ -33,7 +33,11 @@
 /*---------------------------------------------------*/
 
 
-
+.svg-icon{
+	width: 20px;
+	height: 20px;
+	margin: 5px;
+}
 .font{
 	font-family: Georgia, 'Times New Roman', Times, serif;
 }
