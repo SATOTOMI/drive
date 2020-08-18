@@ -33,6 +33,10 @@
 /*---------------------------------------------------*/
 
 /*---付け加え---*/
+.leftbox{
+	display: block;
+	margin-right: 10px;
+}
 .svg-icon{
 	width: 20px;
 	height: 20px;
@@ -724,7 +728,7 @@ body.dark ::placeholder { /* Most modern browsers support this now. */
 	top: 6px;
 	width: 17px;
 	height: 17px;
-	color: #ff214f;
+	color: black;
 }
 .arlo_tm_about .buttons{
 	width: 100%;
@@ -782,7 +786,7 @@ body.dark ::placeholder { /* Most modern browsers support this now. */
 	display: inline-block;
 	font-size: 14px;
 	text-transform: uppercase;
-	color: #ff214f;
+	color:#A3A3A3
 	font-weight: 500;
 }
 
@@ -836,7 +840,7 @@ body.dark ::placeholder { /* Most modern browsers support this now. */
 .arlo_tm_services .service_inner ul li .inner .svg{
 	width: 45px;
 	height: 45px;
-	color: #ff214f;
+	color: #000000!important;
 	margin-bottom: 15px;
 }
 .arlo_tm_services .service_inner ul li .inner h3{
@@ -2022,9 +2026,18 @@ body.dark .arlo_tm_footer{background-color: #101010;}
 }
 @media (max-width: 1400px) {
 	.arlo_tm_about{margin-bottom: 80px;}
-	.arlo_tm_about .leftbox{display: none;}
+	/*.arlo_tm_about {display: none;}*/
 	.arlo_tm_about .rightbox{padding-left: 0px;width: 100%;}
 	body.rtl .arlo_tm_about .rightbox{padding-right: 0px;}
+	.leftbox img{
+		width: 80%;
+	}
+	.leftbox{
+		text-align: center;
+	}
+	/*.rightbox {
+		margin-top: 500px;
+	}*/
 }
 @media (max-width: 1200px) {
 	.arlo_tm_services .service_inner ul li{width: 50%;}
