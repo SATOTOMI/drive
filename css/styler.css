@@ -1255,7 +1255,6 @@ body.dark ::placeholder { /* Most modern browsers support this now. */
 .arlo_tm_pricing .pricing_inner > ul > li > .inner .svg{
 	width: 45px;
 	height: 45px;
-	color: #000000!important;
 	margin-bottom: 10px;
 }
 .arlo_tm_pricing .pricing_inner > ul > li > .inner .title{
