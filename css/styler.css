@@ -1095,7 +1095,7 @@ body.dark ::placeholder { /* Most modern browsers support this now. */
 	top: 64px;
 	line-height: 0;
 }
-.arlo_tm_testimonial .testimonial_content .content_inner .icon .svg{
+.arlo_tm_testimonial .testimonial_content .content_inner .icon .{
 	width: 70px;
 	height: 70px;
 	color: #FF5E5F;
@@ -1182,7 +1182,7 @@ body.dark ::placeholder { /* Most modern browsers support this now. */
 .arlo_tm_timeline .timeline_inner .svg{
 	width: 30px;
 	height: 30px;
-	color: #ff214f;
+	color: #000000;
 	position: absolute;
 	left: -55px;
 	top: -3px;
@@ -1255,7 +1255,7 @@ body.dark ::placeholder { /* Most modern browsers support this now. */
 .arlo_tm_pricing .pricing_inner > ul > li > .inner .svg{
 	width: 45px;
 	height: 45px;
-	color: #ff214f;
+	color: #000000;
 	margin-bottom: 10px;
 }
 .arlo_tm_pricing .pricing_inner > ul > li > .inner .title{
@@ -1470,7 +1470,7 @@ body.dark ::placeholder { /* Most modern browsers support this now. */
 .arlo_tm_contact .short_list ul li .svg{
 	width: 25px;
 	height: 25px;
-	color: #ff214f;
+	color: #000000;
 	margin-bottom: 9px;
 }
 .arlo_tm_contact .short_list ul li h3{
