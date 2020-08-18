@@ -1271,7 +1271,7 @@ body.dark ::placeholder { /* Most modern browsers support this now. */
 	margin-bottom: 30px;
 }
 .arlo_tm_pricing .pricing_inner > ul > li > .inner ul li{margin: 0px;}
-.arlo_tm_pricing .pricing_inner > ul > li.active > .inner{background-color: #ff214f;}
+.arlo_tm_pricing .pricing_inner > ul > li.active > .inner{background-color: #000000;}
 .arlo_tm_pricing .pricing_inner > ul > li.active > .inner .svg{color: #fff;}
 .arlo_tm_pricing .pricing_inner > ul > li.active > .inner .title{color: #fff;}
 .arlo_tm_pricing .pricing_inner > ul > li.active > .inner .price{color: #fff;}
