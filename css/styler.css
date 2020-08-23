@@ -33,11 +33,11 @@
 /*---------------------------------------------------*/
 
 /*---付け加え---*/
-.contact-wrapper{
-	color: black;
+a{
+	color: black!important;
 }
-.buttons{
-	color: white;
+.sns h3{
+	color: black;
 }
 .leftbox{
 	display: block;
@@ -2094,6 +2094,7 @@ body.dark .arlo_tm_footer{background-color: #101010;}
 	.arlo_tm_intro_mainpart .main_list ul li{width: 100%;padding-left: 0px;}
 	.arlo_tm_intro_mainpart .main_list ul{margin: 0px;}
 	.arlo_tm_intro_mainpart .main_list{padding: 0px 20px;}
+	
 }
 @media (max-width: 480px) {
 	.arlo_tm_hero_header .hero_content .name_holder h3{font-size: 35px;}
