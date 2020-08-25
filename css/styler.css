@@ -1093,7 +1093,7 @@ body.dark ::placeholder { /* Most modern browsers support this now. */
 	float: left;
 	position: relative;
 	border: 10px solid rgba(238,238,238,0.2);
-	padding: 60px 60px 64px 155px;
+	padding: 60px 60px 64px 60px;
 }
 .arlo_tm_testimonial .testimonial_content .content_inner .icon{
 	position: absolute;
